@@ -1,1 +1,5 @@
-# Multivariate-Analysis-of-box-office-factors-in-the-film-industry
+## 과학기술대학 학술제
+
+<h3> 영화흥행예측 알고리즘 개선제안 </h3>
+
+- 장려상 수상 
